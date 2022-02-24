@@ -36,6 +36,7 @@
 ### Vue后台管理系统模板
 
 |系统名|文档地址|
+|---|---|
 |vue-admin-beautiful|[https://gitee.com/chu1204505056/vue-admin-beautiful](https://gitee.com/chu1204505056/vue-admin-beautiful)|
 |vue-Element-Admin|[https://panjiachen.github.io/vue-element-admin-site/zh/](https://panjiachen.github.io/vue-element-admin-site/zh/)|
 |scui-Admin|[https://lolicode.gitee.io/scui-doc/](https://lolicode.gitee.io/scui-doc/)|
